@@ -1,0 +1,14 @@
+E:\Semester 6\gg\pro\OnlineFoodOrderingSystem\obj\x86\Debug\OnlineFoodOrderingSystem.csproj.AssemblyReference.cache
+E:\Semester 6\gg\pro\OnlineFoodOrderingSystem\obj\x86\Debug\OnlineFoodOrderingSystem.csproj.CoreCompileInputs.cache
+E:\Semester 6\gg\pro\OnlineFoodOrderingSystem\bin\x86\Debug\OnlineFoodOrderingSystem.exe.config
+E:\Semester 6\gg\pro\OnlineFoodOrderingSystem\bin\x86\Debug\OnlineFoodOrderingSystem.exe
+E:\Semester 6\gg\pro\OnlineFoodOrderingSystem\bin\x86\Debug\OnlineFoodOrderingSystem.pdb
+E:\Semester 6\gg\pro\OnlineFoodOrderingSystem\obj\x86\Debug\OnlineFoodOrderingSystem.exe
+E:\Semester 6\gg\pro\OnlineFoodOrderingSystem\obj\x86\Debug\OnlineFoodOrderingSystem.pdb
+E:\Semester 6\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\bin\x86\Debug\OnlineFoodOrderingSystem.exe.config
+E:\Semester 6\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\bin\x86\Debug\OnlineFoodOrderingSystem.exe
+E:\Semester 6\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\bin\x86\Debug\OnlineFoodOrderingSystem.pdb
+E:\Semester 6\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\obj\x86\Debug\OnlineFoodOrderingSystem.csproj.AssemblyReference.cache
+E:\Semester 6\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\obj\x86\Debug\OnlineFoodOrderingSystem.csproj.CoreCompileInputs.cache
+E:\Semester 6\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\obj\x86\Debug\OnlineFoodOrderingSystem.exe
+E:\Semester 6\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\OnlineFoodOrderingSystem\obj\x86\Debug\OnlineFoodOrderingSystem.pdb
