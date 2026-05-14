@@ -155,9 +155,11 @@ App.config
        Integrated Security=True;"
        providerName="System.Data.SqlClient"/>
 </connectionStrings>
+```
 
 
 
+---
 
 # 🔐 Default Admin Login
 
@@ -165,13 +167,13 @@ App.config
 | --------------------------------------- | -------- |
 | [admin@food.com](mailto:admin@food.com) | admin123 |
 
-
+---
 
 # 📸 Screenshots
 
 *Add screenshots of the application here.*
 
-
+---
 
 # 🚀 Future Improvements
 
@@ -183,6 +185,8 @@ App.config
 * Search & Filter System
 
 
+
+---
 
 # 📄 License
 
