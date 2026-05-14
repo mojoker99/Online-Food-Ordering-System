@@ -155,22 +155,9 @@ App.config
        Integrated Security=True;"
        providerName="System.Data.SqlClient"/>
 </connectionStrings>
-```
 
----
 
-# ▶️ How to Run
 
-1. Open the solution in Visual Studio
-2. Restore NuGet packages if needed
-3. Build Solution
-4. Run the project using:
-
-```text id="8m1qzt"
-F5
-```
-
----
 
 # 🔐 Default Admin Login
 
@@ -178,13 +165,13 @@ F5
 | --------------------------------------- | -------- |
 | [admin@food.com](mailto:admin@food.com) | admin123 |
 
----
+
 
 # 📸 Screenshots
 
 *Add screenshots of the application here.*
 
----
+
 
 # 🚀 Future Improvements
 
@@ -195,13 +182,7 @@ F5
 * Responsive UI Design
 * Search & Filter System
 
----
 
-# 👨‍💻 Author
-
-Developed by **Mohamed Khaled**
-
----
 
 # 📄 License
 
